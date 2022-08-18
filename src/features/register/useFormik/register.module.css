@@ -1,0 +1,33 @@
+.container {
+    margin-left: 20vw;
+    margin-top: 10vh;
+}
+
+.label {
+    margin: 5px;
+}
+
+.input_error {
+    background-color: #e9967a;
+    height: 30px;
+    margin: 5px;
+    width: 20vw;
+    border-radius: 4px;
+}
+
+.input {
+    border-color: blue;
+    height: 30px;
+    width: 20vw;
+    margin: 5px;
+    border-radius: 4px;
+}
+
+.submit {
+    margin: 30px 5px;
+    height: 40px;
+    width: 20vw;
+    border-radius: 4px;
+    border: 1px solid;
+    background-color: #8ab9f1;
+}

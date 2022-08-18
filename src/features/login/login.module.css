@@ -1,0 +1,38 @@
+* {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    margin-left: 20vw;
+    margin-top: 20vh;
+}
+
+.label {
+    margin: 10px;
+}
+
+.input_error {
+    background-color: #e9967a;
+    height: 30px;
+    margin: 10px;
+    width: 24vw;
+    border-radius: 4px;
+}
+
+.input {
+    border-color: blue;
+    height: 30px;
+    width: 24vw;
+    margin: 10px;
+    border-radius: 4px;
+}
+
+.submit {
+    margin: 30px 10px;
+    height: 40px;
+    width: 20vw;
+    border-radius: 4px;
+    border: 1px solid;
+    background-color: #8ab9f1;
+}
